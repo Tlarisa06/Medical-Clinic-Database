@@ -16,7 +16,8 @@ Baza de date este compusa din urmatoarele entitati:
 4. Pacient: Evidenta pacientilor cu detalii despre varsta si adresa.
 5. Consultatie: Tabela de legatura care inregistreaza diagnosticele si istoricul consultatiilor.
 
-<img width="1539" height="560" alt="cabinetMedical" src="https://github.com/user-attachments/assets/ba9ebbd3-e220-4caa-9be8-759e741e85e3" />
+<img width="1539" height="560" alt="Untitled (1)" src="https://github.com/user-attachments/assets/4e856be0-e4de-4368-a7e9-2acefb0489ee" />
+
 
 
 ## Instructiuni de Utilizare
